@@ -1,0 +1,2 @@
+appending some new content in the filefile handling is easy
+python is powerfull

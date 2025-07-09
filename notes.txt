@@ -1,0 +1,2 @@
+python is powerfull
+file handling is easy

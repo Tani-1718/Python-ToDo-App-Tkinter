@@ -1,0 +1,3 @@
+python is powerfull
+file handling is easy
+appending some new content in the file
